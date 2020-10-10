@@ -1,5 +1,5 @@
 
-alias ns="source ~/.magellan source ~/.bash_profile && source ~/.aliases && source ~/.env"
+alias ns="source ~/.bashrc && source ~/.bash_profile && source ~/.aliases && source ~/.env"
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
