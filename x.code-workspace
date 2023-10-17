@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.renderWhitespace": "all",
+		"editor.formatOnSave": true,
+		"editor.tabSize": 2,
+		"editor.detectIndentation": true,
+		"javascript.format.semicolons": "insert",
+		"debug.saveBeforeStart": "nonUntitledEditorsInActiveGroup",
+		"editor.rulers": [
+			80,
+			120
+		],
+		"editor.wordWrap": "wordWrapColumn"
+	}
+}
