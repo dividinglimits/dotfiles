@@ -2,8 +2,6 @@
 alias ll="ls -al"
 alias ..="cd .."
 
-
-
 # Git command acronyms
 alias ga="git add ."
 alias gc="git commit -m "
@@ -16,5 +14,11 @@ alias gs="git status"
 alias co="git checkout "
 alias b="git checkout -b "
 alias branch=b
+alias head="git checkout HEAD "
 
+# languages
+alias pip="pip3 "
+
+# repositories
+alias dl="cd ~/vcs/github.com/dividinglimits "
 
